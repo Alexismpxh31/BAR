@@ -49,7 +49,7 @@ Ejecuta el siguiente script en tu consola de R o RStudio para instalar las depen
 
 ```R
 install.packages(c("shiny", "shinydashboard", "dplyr", "DT", "shinyjs", "lubridate", "plotly", "DBI", "RPostgres", "randomForest", "e1071", "glmnet", "cluster", "ggplot2"))
-
+```
 3. Ejecutar la Aplicación
 Abre el archivo app.R y ejecuta el comando Run App o utiliza la consola:
 
@@ -59,3 +59,6 @@ Autores: Luis Pazmiño, Juan Montesdeoca, Alexis Nicolalde
 [cite: 3]
 
 Estudiantes de Ingeniería en Tecnologías de la Información.
+
+
+
